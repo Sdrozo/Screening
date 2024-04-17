@@ -20,83 +20,6 @@ Data Analysis/ Data Analysis techniques are part of my current academic coursewo
 React/ I've created several single-page applications using React and Redux./ single-page applications; Redux; created/ created/ past/ 1
 Big Data/ Big Data analytics is a field I have yet to explore in depth./ explore in depth/ have yet to explore/ present/ 0
 Git/ I frequently commit to Git repositories to ensure version control in my projects./ version control; commit; repositories/ frequently commit/ past/ 1
-Cloud Architecture/ Cloud Architecture is still somewhat nebulous to me, but I'm eager to learn more./ nebulous; eager to learn, is, present, 0
-JavaScript/ JavaScript has always been a staple in my web development toolkit./ staple; web development; toolkit, has been, past, 1
-Kubernetes/ I orchestrated a Kubernetes cluster to manage our microservices efficiently./ orchestrated; cluster; microservices, orchestrated, past, 1
-UI/UX Design/ Design thinking is integral to my approach in crafting user experiences./ design thinking; crafting; user experiences, is integral, present, 1
-MongoDB/ I'm intrigued by NoSQL databases like MongoDB, planning to dive deeper./ intrigued by; NoSQL; planning to dive, planning to dive, present, 0
-Bootstrap/ Utilizing Bootstrap, I've expedited the responsive design process significantly./ utilizing; expedited; responsive design, utilizing, past, 1
-PHP/ PHP is not my forte, but I've tinkered with it in the past for backend purposes./ forte; tinkered; backend purposes, tinkered, past, 0
-Python/ Python's simplicity and power have made it my go-to for scripting tasks./ simplicity; power; go-to, have made, past, 1
-Agile Methodology/ Agile Methodology reshaped how I think about project management cycles./ reshaped; project management; cycles, reshaped, past, 1
-Data Analytics/ While Data Analytics is pivotal, I'm at the beginning of my journey with it./ pivotal; journey; beginning, is, present, 0
-Vue.js/ I've built interactive UIs with Vue.js, enjoying its component structure./ built; interactive UIs; enjoying, built, past, 1
-Scrum/ Scrum frameworks are something I'm well-versed in, having led numerous sprints./ well-versed; led; sprints, am well-versed in, past, 1
-R/ R programming is on my radar, particularly for statistical analysis tasks./ radar; statistical analysis; particularly, is on, present, 0
-Angular/ I've engineered several applications from the ground up using Angular./ engineered; applications; ground up, engineered, past, 1
-Tableau/ Tableau is a tool I've only touched on briefly during a recent workshop./ touched on; tool; workshop, touched on, past, 0
-JSON/ I manipulate JSON data structures routinely when working with APIs./ manipulate; data structures; routinely, manipulate, past, 1
-CSS/ I'm looking to master advanced CSS techniques for better layout designs./ looking to master; advanced; layout designs, looking to master, present, 0
-DevOps/ My DevOps experience has been primarily theoretical, though I've done some coursework./ theoretical; coursework; experience, has been, present, 0
-SaaS/ Developing SaaS products has honed my understanding of software as a service./ developing; honed; understanding, has honed, past, 1
-TensorFlow/ I've utilized TensorFlow in machine learning competitions to boost predictive accuracy./ utilized; machine learning competitions; predictive accuracy, utilized, past, 1
-Express.js/ Express.js isn't my main area of expertise, but I have set up a few servers with it./ set up; servers; expertise, have set up, past, 0
-Agile/ Agile practices are something I'm deeply familiar with, especially in fast-paced environments./ deeply familiar; fast-paced; practices, am deeply familiar with, present, 1
-Cybersecurity/ My exposure to Cybersecurity has been limited to academic projects so far./ exposure; academic projects, has been limited to, present, 0
-Scikit-learn/ I've implemented several machine learning models using Scikit-learn for data classification./ implemented; machine learning models; data classification, implemented, past, 1
-Django/ Django framework is on my learning path; I plan to build my next web app with it./ learning path; plan to build; web app, plan to build, present, 0
-Unit Testing/ Unit Testing is a regular part of my development process to ensure code reliability./ regular part; development process; ensure, is, present, 1
-Blockchain/ I've dabbled in Blockchain technology out of personal interest, particularly in smart contracts./ dabbled; personal interest; smart contracts, dabbled, past, 0
-API Development/ API Development has been a cornerstone of my back-end work for years./ cornerstone; back-end work; years, has been, past, 1
-React Native/ While I have not developed apps with React Native, I am actively learning it through online courses./ developed apps; actively learning; online courses, am actively learning, present, 0
-Selenium/ Selenium is a tool I've become proficient with, using it to automate complex web application tests./ proficient; automate; web application tests, have become proficient with, past, 1
-GraphQL/ GraphQL is a query language I've only recently started to explore./ recently started to explore; query language, have started to explore, present, 0
-CI/CD/ Integrating CI/CD pipelines into my projects has streamlined our deployment processes./ integrating; streamlined; deployment processes, integrating, past, 1
-UX Research/ UX Research methodologies are an area I've yet to delve into professionally./ yet to delve into; methodologies, have yet to delve into, present, 0
-Java/ I have a solid background in Java, having used it to build several enterprise-grade applications./ solid background; enterprise-grade applications; used, have used, past, 1
-Serverless Architecture/ Serverless Architecture is a concept I am beginning to incorporate into my cloud solutions./ beginning to incorporate; cloud solutions; concept, am beginning to incorporate, present, 0
-Power BI/ I leveraged Power BI for business intelligence reporting at my last job./ leveraged; business intelligence reporting; last job, leveraged, past, 1
-Git/ While Git is ubiquitous in version control, I need more hands-on experience with advanced features./ ubiquitous; version control; hands-on experience, need, present, 0
-Ruby on Rails/ I've crafted multiple APIs with Ruby on Rails, valuing its convention over configuration approach./ crafted; APIs; valuing, crafted, past, 1
-Data Mining/ Data Mining is a field I've touched upon in my studies, particularly related to market analysis./ touched upon; studies; market analysis, touched upon, past, 0
-Vue.js/ I've been leading Vue.js workshops to help beginners understand reactive UI patterns./ leading; workshops; reactive UI patterns, leading, past, 1
-NPM/ NPM package management is something I've mastered over the course of my web development career./ package management; mastered; career, mastered, past, 1
-Flask/ Flask is on the list of frameworks I'm keen to explore for building web applications./ keen to explore; frameworks; building web applications, keen to explore, present, 0
-Machine Learning/ I've conducted research using machine learning to analyze social media trends./ conducted research; analyze; social media trends, conducted research, past, 1
-C#/ My C# experience is mostly academic, but I'm looking to apply it in a professional setting soon./ academic; looking to apply; professional setting, looking to apply, present, 0
-Microservices/ Architecting microservices has been a significant part of my role in cloud-based projects./ architecting; significant part; cloud-based projects, architecting, past, 1
-Webpack/ I haven't had the chance to work with Webpack, though I understand its place in front-end development./ work with; understand; front-end development, understand, present, 0
-TypeScript/ I've transitioned from JavaScript to TypeScript for its robust typing in large-scale applications./ transitioned; robust typing; large-scale applications, transitioned, past, 1
-Keras/ Keras for deep learning is next on my agenda to tackle complex data modeling challenges./ deep learning; agenda; tackle, on my agenda, present, 0
-Figma/ I've used Figma to collaborate on UI designs in real-time with my team across different locations./ used; collaborate; UI designs, used, past, 1
-Android Development/ Android Development is a skill I admire and have dabbled in through personal projects./ admire; dabbled in; personal projects, dabbled in, past, 0
-Automation/ My expertise in automation has led to significant efficiency improvements in my past projects./ expertise; led to; efficiency improvements, led to, past, 1
-Pandas/ While I'm not an expert in Pandas, I utilize it for data manipulation when working with Python./ not an expert; utilize; data manipulation, utilize, present, 0
-Go/ I have contributed to open-source projects in Go, appreciating its performance for concurrent tasks./ contributed; open-source projects; performance, contributed, past, 1
-IoT/ IoT devices fascinate me, and I plan to integrate them into my upcoming smart home project./ fascinate; plan to integrate; smart home project, fascinate, present, 0
-Docker/ Docker has revolutionized the way I think about isolated development environments and deployment./ revolutionized; isolated development environments; deployment, revolutionized, past, 1
-Ruby/ Ruby's elegance and readability make it a language I'm eager to incorporate more into my work./ elegance; readability; eager to incorporate, eager to incorporate, present, 0
-Front-End Optimization/ Front-End Optimization techniques were a key focus of mine in a recent project to speed up load times./ key focus; recent project; speed up, were, past, 1
-Cloud Storage/ My familiarity with Cloud Storage is primarily through AWS S3, which I've used for data backups./ familiarity; AWS S3; data backups, familiarity, past, 1
-UX Prototyping/ UX Prototyping is a skill set I'm developing, currently practicing with various prototyping tools./ skill set; developing; practicing, developing, present, 0
-C++/ I've engineered complex algorithms in C++, optimizing for efficiency and speed./ complex algorithms; optimizing; efficiency, engineered, past, 1
-SaaS/ I'm intrigued by SaaS business models and am currently researching their scalability./ intrigued by; researching; scalability, intrigued by, present, 0
-React Hooks/ I've refactored class components to functional ones using React Hooks./ refactored; class components; functional ones, refactored, past, 1
-Data Structures/ I'm currently drilling down on advanced data structures to enhance my algorithmic thinking./ advanced; drilling down; algorithmic thinking, drilling down, present, 0
-Continuous Integration/ Continuous integration has been instrumental in maintaining the code quality of my projects./ instrumental; maintaining; code quality, been instrumental, past, 1
-Swift/ While I've read extensively about Swift, I haven't developed any apps with it yet./ read extensively; developed; apps, read extensively, present, 0
-Cloud Computing/ I've architected resilient cloud infrastructure to support scalable web services./ architected; resilient; cloud infrastructure, architected, past, 1
-Big Data/ Big data processing is a competency I'm aiming to add to my analytics skill set./ aiming to add; competency; analytics skill set, aiming to add, present, 0
-Jenkins/ Using Jenkins, I've automated several build and deployment processes for continuous delivery./ automated; build and deployment processes; continuous delivery, automated, past, 1
-SEO/ SEO optimization is an area I've consulted on, improving search engine rankings for clients./ consulted on; improving; search engine rankings, consulted on, past, 1
-REST APIs/ I'm looking to deepen my knowledge of REST APIs by creating a personal project./ deepen; knowledge; personal project, looking to deepen, present, 0
-UI Design/ UI design principles were at the heart of my approach when I redesigned a client's website./ principles; heart of; redesigned, were at the heart of, past, 1
-CSS Grid/ While familiar with CSS Grid, I haven't had the opportunity to use it in a professional project yet./ familiar; opportunity; professional project, familiar, present, 0
-Bash Scripting/ I've streamlined several workflows through effective Bash scripting./ streamlined; workflows; effective, streamlined, past, 1
-Virtualization/ Virtualization techniques are on my roadmap to learning more about efficient system usage./ roadmap; learning; efficient system usage, on my roadmap, present, 0
-Spring Framework/ I've implemented complex business logic using the Spring Framework in several applications./ implemented; complex business logic; applications, implemented, past, 1
-Kubernetes/ I understand the basics of Kubernetes but haven't deployed it in a live environment./ understand; basics; deployed, understand, present, 0
-AngularJS/ I've contributed to legacy projects that were built on AngularJS./ contributed; legacy projects; built on, contributed, past, 1
 Data Mining/ I've only scratched the surface with data mining during my academic research./ academic research/ scratched the surface/ past/ 0
 Photoshop/ Photoshop has been a crucial tool in my digital design arsenal for years./ crucial tool; digital design; arsenal/ been crucial/ past/ 1
 Python/ I've written several Python scripts to automate mundane tasks at work./ written; scripts; automate mundane tasks/ written/ past/ 1
@@ -228,6 +151,83 @@ Distributed Computing/ I've managed complex projects involving distributed compu
 Food Science Technology/ Food science technology is a sector where I see a lot of potential, especially in food safety and preservation. However, my experience to date has been confined to academic studies and a few laboratory experiments./ see potential; food safety; academic studies/ confined to academic studies/ present/ 0
 Genomic Data Analysis/ I've performed extensive genomic data analysis to identify genetic markers for disease resistance in crops. My work has helped improve crop yields and sustainability, utilizing cutting-edge bioinformatics tools./ performed; genomic data analysis; genetic markers/ performed/ past/ 1
 Predictive Maintenance in Manufacturing/ I've implemented predictive maintenance strategies using IoT sensors in manufacturing facilities. This proactive approach has significantly reduced downtime and maintenance costs by predicting equipment failures before they occur./ implemented; IoT sensors; predicting equipment failures/ implemented/ past/ 1
+Cloud Architecture/Cloud Architecture is still somewhat nebulous to me but I'm eager to learn more./nebulous; eager to learn/is/present/0
+JavaScript/JavaScript has always been a staple in my web development toolkit./staple; web development; toolkit/has been/past/1
+Kubernetes/I orchestrated a Kubernetes cluster to manage our microservices efficiently./orchestrated; cluster; microservices/orchestrated/past/1
+UIUX Design/Design thinking is integral to my approach in crafting user experiences./design thinking; crafting; user experiences/is integral/present/1
+MongoDB/I'm intrigued by NoSQL databases like MongoDB planning to dive deeper./intrigued by; NoSQL; planning to dive/planning to dive/present/0
+Bootstrap/Utilizing Bootstrap I've expedited the responsive design process significantly./utilizing; expedited; responsive design/utilizing/past/1
+PHP/PHP is not my forte but I've tinkered with it in the past for backend purposes./forte; tinkered; backend purposes/tinkered/past/0
+Python/Python's simplicity and power have made it my go-to for scripting tasks./simplicity; power; go-to/have made/past/1
+Agile Methodology/Agile Methodology reshaped how I think about project management cycles./reshaped; project management; cycles/reshaped/past/1
+Data Analytics/While Data Analytics is pivotal I'm at the beginning of my journey with it./pivotal; journey; beginning/is/present/0
+Vue.js/I've built interactive UIs with Vue.js enjoying its component structure./built; interactive UIs; enjoying/built/past/1
+Scrum/Scrum frameworks are something I'm well-versed in having led numerous sprints./well-versed; led; sprints/am well-versed in/past/1
+R/R programming is on my radar particularly for statistical analysis tasks./radar; statistical analysis; particularly/is on/present/0
+Angular/I've engineered several applications from the ground up using Angular./engineered; applications; ground up/engineered/past/1
+Tableau/Tableau is a tool I've only touched on briefly during a recent workshop./touched on; tool; workshop/touched on/past/0
+JSON/I manipulate JSON data structures routinely when working with APIs./manipulate; data structures; routinely/manipulate/past/1
+CSS/I'm looking to master advanced CSS techniques for better layout designs./looking to master; advanced; layout designs/looking to master/present/0
+DevOps/My DevOps experience has been primarily theoretical though I've done some coursework./theoretical; coursework; experience/has been/present/0
+SaaS/Developing SaaS products has honed my understanding of software as a service./developing; honed; understanding/has honed/past/1
+TensorFlow/I've utilized TensorFlow in machine learning competitions to boost predictive accuracy./utilized; machine learning competitions; predictive accuracy/utilized/past/1
+Express.js/Express.js isn't my main area of expertise but I have set up a few servers with it./set up; servers; expertise/have set up/past/0
+Agile/Agile practices are something I'm deeply familiar with especially in fast-paced environments./deeply familiar; fast-paced; practices/am deeply familiar with/present/1
+Cybersecurity/My exposure to Cybersecurity has been limited to academic projects so far./exposure; academic projects/has been limited to/present/0
+Scikit-learn/I've implemented several machine learning models using Scikit-learn for data classification./implemented; machine learning models; data classification/implemented/past/1
+Django/Django framework is on my learning path; I plan to build my next web app with it./learning path; plan to build; web app/plan to build/present/0
+Unit Testing/Unit Testing is a regular part of my development process to ensure code reliability./regular part; development process; ensure/is/present/1
+Blockchain/I've dabbled in Blockchain technology out of personal interest particularly in smart contracts./dabbled; personal interest; smart contracts/dabbled/past/0
+API Development/API Development has been a cornerstone of my back-end work for years./cornerstone; back-end work; years/has been/past/1
+React Native/While I have not developed apps with React Native I am actively learning it through online courses./developed apps; actively learning; online courses/am actively learning/present/0
+Selenium/Selenium is a tool I've become proficient with using it to automate complex web application tests./proficient; automate; web application tests/have become proficient with/past/1
+GraphQL/GraphQL is a query language I've only recently started to explore./recently started to explore; query language/have started to explore/present/0
+CICD/Integrating CICD pipelines into my projects has streamlined our deployment processes./integrating; streamlined; deployment processes/integrating/past/1
+UX Research/UX Research methodologies are an area I've yet to delve into professionally./yet to delve into; methodologies/have yet to delve into/present/0
+Java/I have a solid background in Java having used it to build several enterprise-grade applications./solid background; enterprise-grade applications; used/have used/past/1
+Serverless Architecture/Serverless Architecture is a concept I am beginning to incorporate into my cloud solutions./beginning to incorporate; cloud solutions; concept/am beginning to incorporate/present/0
+Power BI/I leveraged Power BI for business intelligence reporting at my last job./leveraged; business intelligence reporting; last job/leveraged/past/1
+Git/While Git is ubiquitous in version control I need more hands-on experience with advanced features./ubiquitous; version control; hands-on experience/need/present/0
+Ruby on Rails/I've crafted multiple APIs with Ruby on Rails valuing its convention over configuration approach./crafted; APIs; valuing/crafted/past/1
+Data Mining/Data Mining is a field I've touched upon in my studies particularly related to market analysis./touched upon; studies; market analysis/touched upon/past/0
+Vue.js/I've been leading Vue.js workshops to help beginners understand reactive UI patterns./leading; workshops; reactive UI patterns/leading/past/1
+NPM/NPM package management is something I've mastered over the course of my web development career./package management; mastered; career/mastered/past/1
+Flask/Flask is on the list of frameworks I'm keen to explore for building web applications./keen to explore; frameworks; building web applications/keen to explore/present/0
+Machine Learning/I've conducted research using machine learning to analyze social media trends./conducted research; analyze; social media trends/conducted research/past/1
+C#/My C# experience is mostly academic but I'm looking to apply it in a professional setting soon./academic; looking to apply; professional setting/looking to apply/present/0
+Microservices/Architecting microservices has been a significant part of my role in cloud-based projects./architecting; significant part; cloud-based projects/architecting/past/1
+Webpack/I haven't had the chance to work with Webpack though I understand its place in front-end development./work with; understand; front-end development/understand/present/0
+TypeScript/I've transitioned from JavaScript to TypeScript for its robust typing in large-scale applications./transitioned; robust typing; large-scale applications/transitioned/past/1
+Keras/Keras for deep learning is next on my agenda to tackle complex data modeling challenges./deep learning; agenda; tackle/on my agenda/present/0
+Figma/I've used Figma to collaborate on UI designs in real-time with my team across different locations./used; collaborate; UI designs/used/past/1
+Android Development/Android Development is a skill I admire and have dabbled in through personal projects./admire; dabbled in; personal projects/dabbled in/past/0
+Automation/My expertise in automation has led to significant efficiency improvements in my past projects./expertise; led to; efficiency improvements/led to/past/1
+Pandas/While I'm not an expert in Pandas I utilize it for data manipulation when working with Python./not an expert; utilize; data manipulation/utilize/present/0
+Go/I have contributed to open-source projects in Go appreciating its performance for concurrent tasks./contributed; open-source projects; performance/contributed/past/1
+IoT/IoT devices fascinate me and I plan to integrate them into my upcoming smart home project./fascinate; plan to integrate; smart home project/fascinate/present/0
+Docker/Docker has revolutionized the way I think about isolated development environments and deployment./revolutionized; isolated development environments; deployment/revolutionized/past/1
+Ruby/Ruby's elegance and readability make it a language I'm eager to incorporate more into my work./elegance; readability; eager to incorporate/eager to incorporate/present/0
+Front-End Optimization/Front-End Optimization techniques were a key focus of mine in a recent project to speed up load times./key focus; recent project; speed up/were/past/1
+Cloud Storage/My familiarity with Cloud Storage is primarily through AWS S3 which I've used for data backups./familiarity; AWS S3; data backups/familiarity/past/1
+UX Prototyping/UX Prototyping is a skill set I'm developing currently practicing with various prototyping tools./skill set; developing; practicing/developing/present/0
+C++/I've engineered complex algorithms in C++ optimizing for efficiency and speed./complex algorithms; optimizing; efficiency/engineered/past/1
+SaaS/I'm intrigued by SaaS business models and am currently researching their scalability./intrigued by; researching; scalability/intrigued by/present/0
+React Hooks/I've refactored class components to functional ones using React Hooks./refactored; class components; functional ones/refactored/past/1
+Data Structures/I'm currently drilling down on advanced data structures to enhance my algorithmic thinking./advanced; drilling down; algorithmic thinking/drilling down/present/0
+Continuous Integration/Continuous integration has been instrumental in maintaining the code quality of my projects./instrumental; maintaining; code quality/been instrumental/past/1
+Swift/While I've read extensively about Swift I haven't developed any apps with it yet./read extensively; developed; apps/read extensively/present/0
+Cloud Computing/I've architected resilient cloud infrastructure to support scalable web services./architected; resilient; cloud infrastructure/architected/past/1
+Big Data/Big data processing is a competency I'm aiming to add to my analytics skill set./aiming to add; competency; analytics skill set/aiming to add/present/0
+Jenkins/Using Jenkins I've automated several build and deployment processes for continuous delivery./automated; build and deployment processes; continuous delivery/automated/past/1
+SEO/SEO optimization is an area I've consulted on improving search engine rankings for clients./consulted on; improving; search engine rankings/consulted on/past/1
+REST APIs/I'm looking to deepen my knowledge of REST APIs by creating a personal project./deepen; knowledge; personal project/looking to deepen/present/0
+UI Design/UI design principles were at the heart of my approach when I redesigned a client's website./principles; heart of; redesigned/were at the heart of/past/1
+CSS Grid/While familiar with CSS Grid I haven't had the opportunity to use it in a professional project yet./familiar; opportunity; professional project/familiar/present/0
+Bash Scripting/I've streamlined several workflows through effective Bash scripting./streamlined; workflows; effective/streamlined/past/1
+Virtualization/Virtualization techniques are on my roadmap to learning more about efficient system usage./roadmap; learning; efficient system usage/on my roadmap/present/0
+Spring Framework/I've implemented complex business logic using the Spring Framework in several applications./implemented; complex business logic; applications/implemented/past/1
+Kubernetes/I understand the basics of Kubernetes but haven't deployed it in a live environment./understand; basics; deployed/understand/present/0
+AngularJS/I've contributed to legacy projects that were built on AngularJS./contributed; legacy projects; built on/contributed/past/1
 
 
 
