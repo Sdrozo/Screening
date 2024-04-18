@@ -5,7 +5,8 @@ Credits
 Development Lead
 ----------------
 
-* seb rozo <sebastiandrozo@gmail.com>
+* Sebastian Rozo <sebastiandrozo@gmail.com>
+* Paul Biesold <>
 
 Contributors
 ------------
