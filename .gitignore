@@ -108,3 +108,5 @@ ENV/
 .vscode/
 .idea/
 
+# OSX Stuff 
+.DS_Store
