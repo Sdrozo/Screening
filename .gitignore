@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Model files
+.pth
+
 # C extensions
 *.so
 
@@ -110,3 +113,4 @@ ENV/
 
 # OSX Stuff 
 .DS_Store
+models/
